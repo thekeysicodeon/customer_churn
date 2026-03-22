@@ -5,3 +5,7 @@ venv/
 dist/
 build/
 *.exe
+.DS_Store
+.python-version
+notebooks/.ipynb_checkpoints/
+notebooks/kt_churn/
